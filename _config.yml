@@ -6,19 +6,31 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: A Date with Data!
-description: I write about Data Science & Machine Learning topics I come across my journey... ❤
+title: The Very Hungry Datapillar - a Blog about Data Ethics
+description: In the light of the moon, a little app lay on a leaf. |
+One Sunday morning, the warm sun came up and pop! – out of the app came a tiny and very hungry datapillar. |
+He started to look for some food. |
+On Monday he ate through one like. But he was still hungry. |
+On Tuesday, he ate through two reviews, but he was still hungry. |
+On Wednesday, he ate through three pictures, but he was still hungry. |
+On Thursday, he ate through four shopping carts, but he was still hungry. |
+On Friday, he ate through five social media profiles, but he was still hungry. |
+On Saturday he ate through views, movenment recording, network connections, friend's posts, health app reports, face marks, emotional replies, fitness trackers, credit reviews, doctor's accounts. That night he had a stomachache! |
+ |
+Now, it is Sunday again. |
+Let's find one nice green leaf for our datapillar, so he can feel much better, and... |
+beome a beautiful butterfly.
+
 github_username: aenyne
 
 # Email and twitter are optional:
 email: os071909@gmail.com
-twitter_username:
 
 # Set this to true to get LaTeX math equation support
 use_math: True
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
+
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
