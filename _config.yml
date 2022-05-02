@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: The Very Hungry Datapillar | a Blog about Data Ethics
-description: In this blog I discuss different topics from ethics and philosophy in relation to data science and AI. All of the content represents my personal opinion.
+description: In this blog I discuss different topics from ethics and philosophy in relation to data science and AI. All of the content represents my personal opinion. <span><img src="images/logo.png" alt="fast.ai_logo" width="50" align='center'/> Note: I use the fast.ai template to create this blog. Thanks!</span>
 linkedin_username: olga-sawall
 github_username: aenyne
 email: os071909@gmail.com
