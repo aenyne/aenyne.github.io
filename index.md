@@ -14,7 +14,8 @@ beome a beautiful butterfly.
 <br>
 <br>
 
-[^1]: <span><img src="https://upload.wikimedia.org/wikipedia/en/b/b5/HungryCaterpillar.JPG" alt="book_very_hungry_caterpillar" width="50" align='center'/> Based on the book "The Very Hungry Caterpillar" by Eric Carle</span>
-[^2]: <span><img src="images/logo.png" alt="fast.ai_logo" width="50" align='center'/> Note: I use the fast.ai template to create this blog. Thanks!</span>
+<span><img src="https://upload.wikimedia.org/wikipedia/en/b/b5/HungryCaterpillar.JPG" alt="book_very_hungry_caterpillar" width="50" align='center'/> Based on the book "The Very Hungry Caterpillar" by Eric Carle</span>
+<br>
+<span><img src="images/logo.png" alt="fast.ai_logo" width="50" align='center'/> Note: I use the fast.ai template to create this blog. Thanks!</span>
 
 
