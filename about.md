@@ -4,6 +4,8 @@
 
 I am a Freelance Consultant on Data, Analytics and AI topics. Coming from a business background, I learned programming through self-education and online courses. I started learning python for data analysis around 2 years ago.
 With this blog, I am following now my love to think about ethics and philosophical topics and put them in the context of data and AI. 
+<br/><br/> 
+Note: As I am not a native English speaker, you may find some errors in my texts. Please help me develop my writing and language skills and notify me if you find something that needs improvement. 
 
 <br/><br/> 
 <br/><br/> 
