@@ -18,7 +18,7 @@ beome a beautiful butterfly.
 <br>
 
 <div position='fixed' bottom=0>
-<img src="https://upload.wikimedia.org/wikipedia/en/b/b5/HungryCaterpillar.JPG" alt="book_very_hungry_caterpillar" width="50" align='center'/> <sub><sup>The above text is based on the book "The Very Hungry Caterpillar" by Eric Carle </sup></sub>
+<img src="https://upload.wikimedia.org/wikipedia/en/b/b5/HungryCaterpillar.JPG" alt="book_very_hungry_caterpillar" width="50" align='center'/> &nbsp; <sub>The above text is based on the book "The Very Hungry Caterpillar" by Eric Carle </sub>
 <br/><br/>
 <br/><br/>
 </div>
