@@ -8,10 +8,10 @@ With this blog, I am following now my love to think about ethics and philosophic
 </div>
 <br/><br/> 
 <div>
-Note: As I am not a native English speaker, you may find some errors in my texts. Please help me develop my writing and language skills and notify me if you find something that needs improvement. 
+<sub><sup>Note: As I am not a native English speaker, you may find some errors in my texts. Please help me develop my writing and language skills and notify me if you find something that needs improvement. </sub></sup>
  </div>
 
 <br/><br/> 
 <br/><br/> 
-<img src="images/logo.png" alt="fast.ai_logo" width="50" align='left'/> &nbsp;&nbsp;&nbsp; Note: I use the [fast.ai](https://www.fast.ai/) template to create this blog. Thanks!
+<img src="images/logo.png" alt="fast.ai_logo" width="50" align='left'/> &nbsp;&nbsp;&nbsp; <sub><sup>Note: I use the [fast.ai](https://www.fast.ai/) template to create this blog. Thanks!</sub></sup>
 
