@@ -13,5 +13,5 @@ Note: As I am not a native English speaker, you may find some errors in my texts
 
 <br/><br/> 
 <br/><br/> 
-<img src="images/logo.png" alt="fast.ai_logo" width="50" align='left'/>     Note: I use the [fast.ai](https://www.fast.ai/) template to create this blog. Thanks!
+<img src="images/logo.png" alt="fast.ai_logo" width="50" align='left'/>    Note: I use the [fast.ai](https://www.fast.ai/) template to create this blog. Thanks!
 
