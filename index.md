@@ -11,9 +11,7 @@ On Thursday, he ate through four shopping carts, but he was still hungry.  <br>
 On Friday, he ate through five social media profiles, but he was still hungry.  <br>
 On Saturday he ate through views, movenment recording, network connections, friend's posts, health app reports, face marks, emotional replies, fitness trackers, credit reviews, doctor's accounts. That night he had a stomachache!  <br>
   <br>
-Now, it is Sunday again.  <br>
-Let's find one nice green leaf for our datapillar, so he can feel much better, and...  <br>
-beome a beautiful butterfly.
+Now, do you think it's Sunday again?
 <br>
 <br>
 
