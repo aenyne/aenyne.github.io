@@ -1,0 +1,22 @@
+# What is so artificial in Artificial Intelligence?
+
+When I encountered the term Artificial Intelligence the first time, one of the first questions in my mind was: Why artificial? What does "artificial" actually mean? How can intelligence be "real" and artificial, meaning "not real"? 
+
+Actually, up to this date, I encountered no one else wondering about this nomenclature. It seems that once a term has rooted itself in our language, we use it without any further consideration. But just out of curiosity, let’s have a closer look at this one. 
+
+A bit of research reveals that the origin of AI dates back to the [Dartmouth Summer Research Project on Artificial Intelligence (DSRPAI) in 1956](https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/), where John McCarthy and Marvin Minsky gathered scientists to discuss and describe the concept of a program that mimics the problem-solving skills of a human. 
+
+Under this aspect, it is understandable why the term “artificial intelligence” was born. It was a bold idea that could stem from a science fiction novel. How astonishing to see now, that it required not even seventy years to bring it almost fully to life. It has now become real, with operating neural nets all over the world and reaching deep into our daily activities. I’d bet that a human has already on average more encounters a day with an algorithm than with other humans, and in most cases, [we don’t even realize it](https://www.forbes.com/sites/shephyken/2017/06/10/half-of-people-who-encounter-artificial-intelligence-dont-even-realize-it/?sh=464aa3d2745f). 
+
+Artificial means human crafted. In light of the Turing-shaped perspective of viewing computational intelligence as something that (only) mimics humans, it defines human intelligence as the highest achievable step of the possible intelligence scales. But it not only enthrones the human as the most supreme agent in this play but intentionally puts a seed of segregation directly in the creation process, by putting a focus on the creation process itself.
+
+It may be understandable that seventy years ago, the human species seemed to have been the single agent with the greatest potential for intelligence on the horizon. Now, I think that it is more adequate to assume that human intelligence will lose its seat as the definer of intelligence and intelligence potential at some point in the future (and it may be closer than we think). Instead, we may even discover that not only the world is not orbiting around our intelligence, but we could even discover that our assessment of what “real intelligence” means, might be as wrong as our errors have been in the assessments of what the size of the universe might be. We probably didn’t even leave the stone age in this discipline yet, well, we don’t even *have* a proper definition for intelligence yet. 
+
+Even though it is called artificial, the algorithms of newer concepts follow in their learning episode the trial-and-error process of natural evolution, not in a way of mimicking it, but in a way of being it. This not only makes the word “artificial” in this context somewhat paradoxical, but it allows AI to develop fast, much faster than humans. The probability that already our generation would encounter superintelligence is not zero, not even close to it. 
+
+Once this becomes true, if some sort of superintelligence enters human life, we as humanity could run into a very big problem. Wouldn’t the intentional segregation into natural and artificial - with the idea to separate the “real” algorithm, the human, from the mimicking one, the program - turn back on us? The depths of the intelligence universe will grow, while the mark with the inscription “human intelligence” will not, becoming smaller and smaller until it is the invisible little spot called “Earth” in the depth of the Milky Way picture. 
+
+Maybe, “just human” intelligence will become more and more an idle or even maleficent attribute. Following the evolutionary principle, the idle attribute of human intelligence will either transform or become extinguished. Especially, if the one that was crafted becomes the crafter itself. At this point, we should ask whether it may be time for new concepts of “human” and “intelligence” that are less... human-centric…? 
+
+I would argue that it is time to develop a view on humans and their intelligence, which includes some transformational potential, hereby including “artificial” intelligence in the concept of human intelligence and not segregating it from each other. 
+
