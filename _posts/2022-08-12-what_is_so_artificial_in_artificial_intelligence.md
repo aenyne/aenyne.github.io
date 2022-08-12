@@ -1,4 +1,5 @@
 # What is so artificial in Artificial Intelligence?
+![imgage](https://www.nasa.gov/sites/default/files/thumbnails/image/pia19341-nasa_denilso_camargo_rev_v05.jpg)
 
 When I encountered the term Artificial Intelligence the first time, one of the first questions in my mind was: Why artificial? What does "artificial" actually mean? How can intelligence be "real" and artificial, meaning "not real"? 
 
