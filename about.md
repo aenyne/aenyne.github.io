@@ -24,5 +24,5 @@ Making Sense Podcast by Sam Harris, especially on [questions about self](https:/
 
 <br/><br/> 
 <br/><br/> 
-<img src="images/logo.png" alt="fast.ai_logo" width="50" align='left'/> &nbsp;&nbsp;&nbsp; <sub>Note: I use the [fast.ai](https://www.fast.ai/) template to create this blog. Thanks!</sub>
+<sub>Note: I use the [fast.ai](https://www.fast.ai/) template to create this blog. Thanks!</sub>
 
