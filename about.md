@@ -8,7 +8,7 @@ With this blog, I am following now my love to think about ethics and philosophic
 </div>
 <br/><br/> 
 <div>
-<sub>Note: As I am not a native English speaker, you may find some errors in my texts. Please help me develop my writing and language skills and notify me if you find something that needs improvement. </sub>
+<sub>Note: Please help me develop my writing and language skills and notify me if you find something that needs correction. </sub>
  </div>
 <br/><br/> 
 <br/><br/> 
@@ -16,7 +16,7 @@ Some Links, that I can recommend for further exploration:
 <br/><br/> 
 Tim Urban's Blog Wait But Why in general and especially the [intro on AI](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 <br/><br/> 
-80,000 hours and the [wolrd's most pressing problems](https://80000hours.org/problem-profiles/)
+80,000 hours and the [world's most pressing problems](https://80000hours.org/problem-profiles/)
 <br/><br/> 
 Making Sense Podcast by Sam Harris, especially on [questions about self](https://www.samharris.org/podcasts/making-sense-episodes/282-do-you-really-have-a-self)
 <br/><br/> 
