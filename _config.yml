@@ -20,6 +20,10 @@ use_math: True
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
+header_pages:
+  - about.md
+  - blog.md
+  
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -39,7 +43,3 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
-  
-header_pages:
-  - about.md
-  - blog.md
