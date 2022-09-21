@@ -17,12 +17,14 @@ use_math: True
 
 # Add your Google Analytics ID here if you have one and want to use it
 
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - about.md
+ - blog.md
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
-header_pages:
-  - about.md
-  - blog.md
   
 plugins:
   - jekyll-feed
@@ -43,3 +45,4 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
+  
