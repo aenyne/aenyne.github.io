@@ -39,3 +39,7 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
+  
+header_pages:
+  - about.md
+  - blog.md
