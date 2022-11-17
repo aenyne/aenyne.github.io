@@ -8,7 +8,7 @@ With this blog, I am following now my love to think about ethics and philosophic
 </div>
 <br/><br/> 
 <div>
-<sub>Note: As I am not a native English speaker, you may find some errors in my texts. Please help me develop my writing and language skills and notify me if you find something that needs improvement. </sub>
+<sub>In my leisure time, I like to read about technological developments and reflect on how they will shape our future. After I found out that the topic of machine intelligence is one of the [highly neglected risk areas](https://80000hours.org/problem-profiles/artificial-intelligence/), I have intensified my readings recently, and I want to share some of the yet less common spread topics, that gave me interesting insights and considerations.  </sub>
  </div>
 <br/><br/> 
 <br/><br/> 
